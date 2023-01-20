@@ -45,7 +45,8 @@ the long run, you can go upto 300-400 GB
 <br>
   <img src="assets/dualBoot-issues.png">
 if you are not able to click on the options or haven't got any options to select, although you followed all the steps thoroughly.
-  [The issue you are supposed to look into](https://help.ubuntu.com/rst/)
+
+   [The issue you are supposed to look into](https://help.ubuntu.com/rst/)
   <br>
 
   **Get in touch with some senior to get it fixed**
