@@ -55,11 +55,11 @@ Go through all the videos in playlist to have basic understanding of Gazebo.
 **A) Making R2D2 from Star Wars using URDF: (2 Hours max)**
 
 Follow the given links in strict order. You may also find the embedded links on the tutorial page itself, but for simplicity, we’ve given them here.
-* Building a Visual Robot Model with URDF from Scratch
-* Building a Movable Robot Model with URDF - ROS Wiki
-* Adding Physical and Collision Properties to a URDF Model
-* Using Xacro to Clean Up a URDF File - ROS Wiki
-* Using a URDF in Gazebo - Introduction to ROS Control in Gazebo (This particular link is very open ended and hence optional, but if you want to explore more on ROS Control, try watching videos of ‘The Construct’ YouTube Channel)
+* [Building a Visual Robot Model with URDF from Scratch](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
+* [Building a Movable Robot Model with URDF - ROS Wiki](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Movable%20Robot%20Model%20with%20URDF)
+* [Adding Physical and Collision Properties to a URDF Model](http://wiki.ros.org/urdf/Tutorials/Adding%20Physical%20and%20Collision%20Properties%20to%20a%20URDF%20Model)
+* [Using Xacro to Clean Up a URDF File - ROS Wiki](http://wiki.ros.org/urdf/Tutorials/Using%20Xacro%20to%20Clean%20Up%20a%20URDF%20File)
+* [Using a URDF in Gazebo - Introduction to ROS Control in Gazebo](http://wiki.ros.org/urdf/Tutorials/Using%20a%20URDF%20in%20Gazebo) (This particular link is very open ended and hence optional, but if you want to explore more on ROS Control, try watching videos of ‘The Construct’ YouTube Channel)
   
 **B) Making a custom Bot move autonomously: (3 Hours max)**
 * https://youtu.be/H5FQm0afv-c
